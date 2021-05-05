@@ -4,12 +4,12 @@
 
 De styling van de webpagina Ciao Tutti in `index.html` (map `/opdracht-1`) is nog niet helemaal af! Gebruik het CSS bestand `styles.css` (in dezelfde map) om de styling af te maken. In dat bestand staat (in commentaar) precies wat er moet gebeuren.
 
-#### Aandachtspunten
+### Aandachtspunten
 * Denk eraan dat je alleen iets in het HTML-bestand mag veranderen als dit uitdrukkelijk in de opdrachtbeschrijving staat!
 * Je hoeft zelf geen nieuwe bestanden aan te maken. Het `styles.css` bestand in de map `opdracht-1` is al gekoppeld aan het HTML bestand
 * Aan het CSS bestand in de map `/base` mag je niets veranderen!
 
-#### Eindresultaat
+### Eindresultaat
 
 ![Website](opdracht-1/assets/screenshot-ciao-tutti.png "Eindresultaat")
 
@@ -17,7 +17,7 @@ De styling van de webpagina Ciao Tutti in `index.html` (map `/opdracht-1`) is no
 
 Ook de styling voor de elementen in `index.html` (map `/opdracht-2`) is ook nog niet helemaal af. Er is namelijk nog helemaal geen flexbox toegepast! Bekijk de HTML eens goed en gebruik het CSS bestand `styles.css` (in dezelfde map) om de elementen er net zo uit te laten zien als het eindresultaat hieronder.
 
-#### Aandachtspunten
+### Aandachtspunten
 
 In `index.html` vindt je de HTML voor de opdracht. Denk eraan:
 * Denk eraan dat je niets in het HTML-bestand mag veranderen, behalve het toevoegen van een `class` of `id`-attribuut waar nodig.
