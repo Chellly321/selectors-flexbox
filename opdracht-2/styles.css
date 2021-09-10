@@ -49,5 +49,16 @@ form {
 label{
     align-self: center;
     align-items: center;
+}
+.five{
+    flex-wrap: wrap;
+}
+article{
+    flex: 1 1 40%;
+}
 
+@media (min-width: 1200px) {
+    article{
+        flex:1 1 30%;
+    }
 }
